@@ -1,0 +1,27 @@
+.top_bar{
+	padding: 5px 0;
+	color:white;
+	background: -webkit-linear-gradient(to right,yellow, orangered 50%, yellow);
+  background: -o-linear-gradient(to right,yellow, orangered 50%, yellow);
+  background: -moz-linear-gradient(to right,yellow, orangered 50%, yellow);
+  background: linear-gradient(to right,yellow, orangered 50%, yellow);
+}
+.contact_info{
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.error{
+	border-color: red;
+}
+.float-l{
+	float:left;
+}
+.float-r{
+	float:right;
+}
+.mar-t-10px{
+	margin-top: 10px;
+}
+.panel-color{
+	background-color: #33D4FF;
+}
